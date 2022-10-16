@@ -32,7 +32,7 @@ def print_images_list(project: str) -> str:
 
 # Imports the Google Cloud client library
 from google.cloud import storage
-
+z
 # Instantiates a client
 storage_client = storage.Client()
 
