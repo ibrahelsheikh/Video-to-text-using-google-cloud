@@ -24,3 +24,10 @@ if os.path.exists(output_dirictory_path) == False:
     print("output dirictory created")
 else:
     print("output dirictory already exists")
+
+
+
+
+
+
+
